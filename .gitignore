@@ -1,0 +1,37 @@
+# Ambiente virtual
+venv/
+.venv/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados local (não subir para o GitHub)
+vagas.db
+*.db
+*.sqlite
+
+# Chaves de API e secrets (NUNCA subir!)
+.env
+.env.local
+*.env
+
+# Perfil profissional pessoal
+perfil_base.json
+contatos_diretos.csv
+
+# PDFs gerados
+output/
+*.pdf
+
+# Cline
+.clineignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

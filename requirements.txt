@@ -1,0 +1,7 @@
+jobspy
+litellm
+streamlit
+playwright
+beautifulsoup4
+pandas
+python-dotenv

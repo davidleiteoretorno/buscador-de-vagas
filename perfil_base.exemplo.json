@@ -1,0 +1,11 @@
+{
+  "nome": "Seu nome",
+  "email": "seu.email@example.com",
+  "telefone": "Seu telefone",
+  "localizacao": "Sua cidade e estado",
+  "linkedin": "Seu perfil profissional",
+  "resumo_profissional": "Descreva seu resumo profissional.",
+  "experiencias": [],
+  "habilidades": [],
+  "educacao": []
+}
